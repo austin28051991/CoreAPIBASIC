@@ -1,0 +1,2 @@
+
+Scaffold-DbContext "server=VAIBHAV\SQLEXPRESS;database=Student_DB;trusted_connection=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
