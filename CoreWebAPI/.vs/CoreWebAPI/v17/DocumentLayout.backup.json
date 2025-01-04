@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CORE\\CoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|d:\\core\\corewebapi\\corewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|solutionrelative:corewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|d:\\core\\corewebapi\\corewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|solutionrelative:corewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|d:\\core\\corewebapi\\corewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|solutionrelative:corewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|d:\\core\\corewebapi\\corewebapi\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F68346-E6F4-42A5-9A7E-C02D140E1033}|CoreWebAPI\\CoreWebAPI.csproj|solutionrelative:corewebapi\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreWebAPI\\appsettings.json",
+              "ToolTip": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "CoreWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T16:22:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "CoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "CoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:04:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebAPI\\Program.cs",
+              "ToolTip": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Program.cs",
+              "RelativeToolTip": "CoreWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:23:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "CoreWebAPI\\Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\CORE\\CoreWebAPI\\CoreWebAPI\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "CoreWebAPI\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:20:29.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

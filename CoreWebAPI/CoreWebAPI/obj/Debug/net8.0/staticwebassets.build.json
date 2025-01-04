@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rd57/g6eGUxJtnCzp0o4RvkaHm0gez0gv0qSu5dbO8g=",
+  "Source": "CoreWebAPI",
+  "BasePath": "_content/CoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
